@@ -114,7 +114,7 @@ $newplaylists = $classPlaylists->playlistLagu($userid);
                             ?>
                             </select>
                             <br><br>    
-                            <button type="submit" class=" uk-width-1-1 uk-button uk-button-primary" name="submit">Create
+                            <button type="submit" class=" uk-width-1-1 uk-button uk-button-primary" name="submit">Add To
                                     Playlist</button>
                     </form>
                     
