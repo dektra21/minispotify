@@ -103,7 +103,7 @@ $newplaylists = $classPlaylists->playlistLagu($userid);
                             <input type="hidden" name="song_id" value="<?php echo $data->id; ?>">
                             <select name="playlist_id" placeholder="Select Date" class="uk-select">
                             <?php 
-                                $i = 1;
+                                
                                 if ($newplaylists):
                                     foreach ($newplaylists as $data):
                             ?>
