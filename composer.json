@@ -1,0 +1,9 @@
+{
+    "name": "dektra21/minispotify",
+    "description": "ASIAP",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6"
+    }
+}
